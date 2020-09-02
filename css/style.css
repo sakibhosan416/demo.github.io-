@@ -1,0 +1,241 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Poppins', sans-serif;	
+}
+
+ul li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: none;
+}
+
+img{
+	max-width: 100%;
+}
+.over-flow{
+	overflow: hidden;
+}
+
+/*dash part start*/
+#dash{
+	padding-top: 118px;
+	float: left;
+	width: 100%;
+	padding-bottom: 118px;
+
+}
+.dash-box{
+	height: 300px;
+	width: 100%;
+	border: 1px #E5E1E1 solid;
+	border-radius: 10px 10px 0  0;
+	box-shadow: 0 1px 3px #B89C9C;
+	
+}
+.dash-content-top{
+	float: left;
+	text-align: center;
+}
+.dash-content-top ul{
+	float: left;
+	margin: 0;
+	padding: 0;
+	padding-top: 50px;
+}
+.dash-content-top ul li{
+	float: left;
+	padding: 0 40px 0 30px;
+	font-size: 12px;
+}
+.dash-content-top ul li a{
+	font-size: 11px;
+	color: #3ED426;
+}
+.dash-content-top ul li h3{
+	font-size: 15px;
+	color: #000000;
+	position: relative;
+}
+.kucoin_logo_2nd img {
+    position: absolute;
+    top: 35px;
+    right: 76px;
+  
+}
+.pad{
+	padding-top: 8px!important;
+}
+.pad li{
+	padding: 0 0 0 10px!important;
+	margin-left: 15px;
+}
+.pad li h3{
+	font-size: 15px!important;
+	position: relative;
+}
+.pad li p {
+	font-size: 11px!important;
+}
+.dash-icone img {
+	width: 13px;
+    position: absolute;
+    top: 90px;
+    bottom: 0px;
+    right: 0px;
+    left: 88px;
+}
+.br{
+	margin:117px 10px 0 20px; 
+	width: 85%;
+	height: 1px;
+	background: #AFE5E9;
+}
+.dash-content-meddle{
+	float: left;
+	text-align: center;
+}
+.dash-content-meddle ul{
+	float: left;
+	margin: 0;
+	padding: 0;
+	padding-top: 30px;
+}
+.dash-content-meddle ul li{
+	float: left;
+	padding: 0 0px 0 32px;
+	font-size: 12px;
+}
+.dash-content-meddle ul li a{
+	font-size: 11px;
+	color: #6833C4;
+}
+.dash-content-meddle ul li h3{
+	font-size: 15px;
+	color: #000000;
+	position: relative;
+}
+.BitBns_logo img {
+    position: absolute;
+    top: 35%;
+    right: 65px;
+}
+.BitBns_logo p {
+    position: absolute;
+    top: 45%;
+    right: 49px;
+    font-size: 10px;
+}
+.br2{
+	margin:75px 10px 0 20px; 
+	width: 95%;
+	height: 1px;
+	background: #AFE5E9;
+}
+.dash-content-bottom{
+	float: left;
+	text-align: center;
+}
+.dash-content-bottom ul{
+	float: left;
+	margin: 0;
+	padding: 0;
+	padding-top: 30px;
+}
+.dash-content-bottom ul li{
+	float: left;
+	padding: 0 30px 0 30px;
+	font-size: 12px;
+}
+.dash-content-bottom ul li a{
+	font-size: 11px;
+	color: #EE0E24;
+}
+.dash-content-bottom ul li h3{
+	font-size: 15px;
+	color: #000000;
+	position: relative;
+}
+.etn img {
+    position: absolute;
+    top: 70%;
+    /* right: 76px; */
+    left: 74px;
+}
+.pad{
+	padding-top: 8px!important;
+}
+.pad li{
+	padding: 0 0 0 10px!important;
+	margin-left: 20px;
+}
+.pad li h3{
+	font-size: 15px!important;
+	position: relative;
+}
+.pad li p {
+	margin-left: -20px;
+	font-size: 11px!important;
+}
+.etn2 img {
+    position: absolute;
+    top: 56%;
+    right:80px;
+}
+.das-button{
+	width: 100%;
+	height: 53px;
+	border: 1px #E90808 solid;
+	border-radius: 0 0 27px 27px;
+	box-shadow: 0 1px 3px #B89C9C;
+	margin-bottom: 20px;
+	
+}
+
+.das-button a{
+	float: left;
+	color: #E90808;
+	font-size: 16px;
+	margin: 10px 40px;
+	position: relative;
+}
+.das-button a:after{
+	content: "\f0dd";
+    position: absolute;
+    font-family: fontAwesome;
+    top: -7%;
+    left: -10px;
+}
+.das-button2{
+	width: 100%;
+	height: 53px;
+	border: 1px #40BF8B solid;
+	border-radius: 0 0 27px 27px;
+	box-shadow: 0 1px 3px #B89C9C;
+	margin-bottom: 20px;
+}
+.das-button2 p{
+	padding: 10px 40px;
+}
+.das-button2 a{
+	float: left;
+	color: #40BF8B;
+	font-size: 16px;
+	margin: 10px 40px;
+	position: relative;
+}
+.das-button2 a:after{
+	content: "\f0dd";
+    position: absolute;
+    font-family: fontAwesome;
+    top: -7%;
+    left: -10px;
+}
+.das-button p{
+	padding: 10px 40px;
+}

@@ -1,0 +1,46 @@
+@media screen and (max-width: 720px){
+	.dash-content-top ul li{
+	float: left;
+	padding: 0 10px 0 30px;
+	font-size: 12px;
+	}
+	.kucoin_logo_2nd img {
+    right: 70px;
+	}
+	.pad li h3{
+	font-size: 12px!important;
+	
+	}
+	.pad li{
+	font-size: 1px;
+	margin-left: 5px;
+	}
+	.pad li p {
+		margin-left: -5px;
+	}
+	.dash-icone img {
+	
+    left: 62px;
+	}
+	.dash-content-bottom ul li{
+	float: left;
+	padding: 0 10px 0 30px;
+	font-size: 12px;
+
+	}
+	.dash-content-bottom ul li span{
+		margin-left: 20px;
+	
+	}
+	.etn img {
+    position: absolute;
+    top: 70%;
+    width: 13px;
+    left: 53px;
+}
+   
+		
+	
+
+
+}
